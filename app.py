@@ -5,5 +5,6 @@ st.markdown("""
         <h1 style="color:#2c3e50;">🩺 Skin Disease Analysis & Classification</h1>
         <h3 style="color:#16a085;">AI Powered Deep Learning System</h3>
         <p>Upload a skin image and get instant prediction using Machine Learning</p>
+        <p> aman</p>
     </div>
 """, unsafe_allow_html=True)
